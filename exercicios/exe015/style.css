@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    
+    color: darkblue;
+}
+h2{
+    color: darkred
+}
+p{
+    text-align: justify;
+}
